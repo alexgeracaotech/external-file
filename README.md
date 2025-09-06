@@ -1,1 +1,1 @@
-# external-file
+- Arquivo hospedado para uso via url.
